@@ -1,6 +1,6 @@
 ---
 title: "Xiaole Niu"
-image: website/Headshot.png
+image: xiaoleniu/Headshot.png
 toc: false
 about:
   template: jolla
