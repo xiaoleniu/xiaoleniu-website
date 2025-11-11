@@ -1,6 +1,6 @@
 ---
 title: "Xiaole Niu"
-image: xiaoleniu/Headshot.png
+image: xiaoleniu/Headshot.jpeg
 toc: false
 about:
   template: jolla
@@ -12,3 +12,5 @@ about:
     - text: Email
       href: xiaoleniu@gmail.com
 ---
+
+Hi! My name is Xiaole Niu (she/her). Feel free to poke around my website to learn more!
