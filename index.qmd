@@ -4,6 +4,7 @@ image: xiaoleniu/Headshot.jpeg
 toc: false
 about:
   template: jolla
+  image: xiaoleniu/Headshot.jpeg
   image-shape: round
   image-width: 17em
   links:
@@ -11,6 +12,8 @@ about:
       href: https://www.linkedin.com/in/xiaole-niu-19a75b18b/
     - text: Email
       href: xiaoleniu@gmail.com
+    - text: GitHub
+      href: https://github.com/xiaoleniu
 ---
 
 Hi! My name is Xiaole Niu (she/her). Feel free to poke around my website to learn more!
