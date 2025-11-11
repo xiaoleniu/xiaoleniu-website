@@ -1,11 +1,14 @@
 ---
-title: "xiaoleniu"
+title: "Samantha Csik"
+1image: website/Headshot.png
+2toc: false
+about: 
+3  template: jolla
+4  image-shape: round
+  image-width: 17em
+5  links:
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/xiaole-niu-19a75b18b/
+    - text: Email
+      href: mailto:scsik@ucsb.edu
 ---
-
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
