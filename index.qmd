@@ -1,14 +1,14 @@
 ---
-title: "Samantha Csik"
-1image: website/Headshot.png
-2toc: false
-about: 
-3  template: jolla
-4  image-shape: round
+title: "Xiaole Niu"
+image: website/Headshot.png
+toc: false
+about:
+  template: jolla
+  image-shape: round
   image-width: 17em
-5  links:
+  links:
     - text: LinkedIn
       href: https://www.linkedin.com/in/xiaole-niu-19a75b18b/
     - text: Email
-      href: mailto:scsik@ucsb.edu
+      href: xiaoleniu@gmail.com
 ---
